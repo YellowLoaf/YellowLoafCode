@@ -1,0 +1,1 @@
+basically this is a github repo that contains all of my created code (mostly with python) ill hopefully add to this later lol
